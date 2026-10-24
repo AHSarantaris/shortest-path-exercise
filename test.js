@@ -1,34 +1,17 @@
 
 
 // ---------------------- //
-// White-box unit tests of the algoritms and data structures implemented in the file shortest_path.js.
+// test.js - Test runner.
+// Runs all the test files. You should NOT change this file.
 // ---------------------- //
 
 runTests();
 
-/**
- * A function that runs all tests.
- */
 function runTests() {
-    testCase01();
+    console.log("== Starting tests ==");
+    runQueueTests();
+    runBinaryMatrixGraphTests();
+    console.log("== " + testPassedCount + " passed, " + testFailedCount + " failed ==");
 }
 
-
-// ---------------------- //
-// Queue data structure
-// ---------------------- //
-
-
-/**
- * Test the isEmpty() function
- */
-function testCase01() {
-    let testString = "Test case 01: "
-    let q = new Queue(5);
-    if (!q.isEmpty()) {
-        throw new Error(testString + "Queue should be empty");
-    } else {
-        console.log(testString + "Passed")
-    }
-}
 
