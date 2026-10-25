@@ -7,7 +7,7 @@ Forløb 15: Algoritmer og Datastrukturer
 
 ## Opgaven
 
-I denne opgave skal I `forke` dette repository til jeres computere, og implementere de manglende kodedele i filerne [Queue.js](Queue.js), [BinaryMatrixGraph.js](BinaryMatrixGraph.js) og [shortestPath.js](shortestPath.js). Se delopgaverne nedenfor for fremgangsmåden.
+I denne opgave skal I `forke` dette repository til jeres computere, og implementere de manglende kodedele i filerne [Queue.js](Queue.js), [BinaryMatrixGraph.js](BinaryMatrixGraph.js) og [shortestPathBFS.js](shortestPathBFS.js). Se delopgaverne nedenfor for fremgangsmåden.
 
 ## Delopgaver
 
@@ -25,6 +25,6 @@ I denne opgave skal I `forke` dette repository til jeres computere, og implement
 
 ### Shortest path algoritmen
 
-1. Kig på pseudokoden for shortest path BFS i filen [algorithms.md](algorithms.md) og forstå den.
-2. Implementér algoritmen i funktionen `shortestPathBFS()` i filen [shortestPath.js](shortestPath.js).
+1. Kig på pseudokoden for "Shortest path BFS"-algoritmen i filen [algorithms.md](algorithms.md) og forstå den.
+2. Implementér algoritmen i funktionen `shortestPathBFS()` i filen [shortestPathBFS.js](shortestPathBFS.js).
 3. Tjek at der tegnes en korteste vej på p5.js skitsen ved at åbne [index.html](index.html) i en lokal server/browseren.

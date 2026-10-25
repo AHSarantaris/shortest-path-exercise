@@ -27,7 +27,7 @@ function setup() {
 }
 
 /**
- * Determines the shortest path in @grid from @start to @target , using the data structure @BinaryMatrixGraph and the algorithm @shortestPathBFS implemented in the file shortestPath.js .
+ * Determines the shortest path in @grid from @start to @target , using the data structure @BinaryMatrixGraph and the algorithm @shortestPathBFS implemented in the file shortestPathBFS.js .
  */
 function computePath() {
     graph = new BinaryMatrixGraph(grid, ROWS, COLS);
