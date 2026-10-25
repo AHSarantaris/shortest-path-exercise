@@ -1,7 +1,7 @@
 
 
 // ---------------------- //
-// test.js - Test runner.
+// runTests.js - Test runner.
 // Runs all the test files. You should NOT change this file.
 // ---------------------- //
 
