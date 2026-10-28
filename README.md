@@ -11,7 +11,7 @@ I denne opgave skal I `forke` dette repository til jeres computere, og implement
 
 ## Brug af AI
 
-I må IKKE bruge AI til at generere kode i denne opgave.
+I må IKKE bruge AI til at generere kode i denne opgave, heller ikke med en Agentic Engineering tilgang.
 
 ## Delopgaver
 
