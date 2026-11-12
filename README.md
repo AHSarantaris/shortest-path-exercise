@@ -7,7 +7,11 @@ Forløb 15: Algoritmer og Datastrukturer
 
 ## Opgaven
 
-I denne opgave skal I `forke` dette repository til jeres computere, og implementere de manglende kodedele i filerne [Queue.js](Queue.js), [BinaryMatrixGraph.js](BinaryMatrixGraph.js) og [shortestPathBFS.js](shortestPathBFS.js). Se delopgaverne nedenfor for fremgangsmåden.
+I denne opgave skal I `forke` dette repository og `clone` det til jeres computere, og derefter implementere de manglende kodedele i filerne [Queue.js](Queue.js), [BinaryMatrixGraph.js](BinaryMatrixGraph.js) og [shortestPathBFS.js](shortestPathBFS.js). Se delopgaverne nedenfor for fremgangsmåden.
+
+## Brug af AI
+
+I må IKKE bruge AI til at generere kode i denne opgave, heller ikke med en Agentic Engineering tilgang.
 
 ## Delopgaver
 
